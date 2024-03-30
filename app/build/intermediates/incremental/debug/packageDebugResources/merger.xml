@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res"><file name="application" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\application.png" qualifiers="" type="drawable"/><file name="baseline_add_24" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\baseline_add_24.xml" qualifiers="" type="drawable"/><file name="baseline_search_24" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\baseline_search_24.xml" qualifiers="" type="drawable"/><file name="camera" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\camera.png" qualifiers="" type="drawable"/><file name="chat" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\chat.png" qualifiers="" type="drawable"/><file name="circle_background" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\circle_background.xml" qualifiers="" type="drawable"/><file name="community" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\community.png" qualifiers="" type="drawable"/><file name="ic_com" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\ic_com.png" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="ic_person" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\ic_person.xml" qualifiers="" type="drawable"/><file name="more" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\more.png" qualifiers="" type="drawable"/><file name="plus" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\plus.png" qualifiers="" type="drawable"/><file name="profile" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\profile.jpg" qualifiers="" type="drawable"/><file name="settings" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\settings.png" qualifiers="" type="drawable"/><file name="sort" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\sort.png" qualifiers="" type="drawable"/><file name="telephone" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\telephone.png" qualifiers="" type="drawable"/><file name="wa" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\wa.png" qualifiers="" type="drawable"/><file name="roboto" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\font\roboto.xml" qualifiers="" type="font"/><file name="roboto_bold" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\font\roboto_bold.xml" qualifiers="" type="font"/><file name="roboto_thin" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\font\roboto_thin.xml" qualifiers="" type="font"/><file name="activity_main" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="app_bar" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\layout\app_bar.xml" qualifiers="" type="layout"/><file name="content_main" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\layout\content_main.xml" qualifiers="" type="layout"/><file name="fragment_chatting" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\layout\fragment_chatting.xml" qualifiers="" type="layout"/><file name="fragment_communities" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\layout\fragment_communities.xml" qualifiers="" type="layout"/><file name="fragment_logcall" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\layout\fragment_logcall.xml" qualifiers="" type="layout"/><file name="fragment_status" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\layout\fragment_status.xml" qualifiers="" type="layout"/><file name="fragment_updates" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\layout\fragment_updates.xml" qualifiers="" type="layout"/><file name="item_row_chat" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\layout\item_row_chat.xml" qualifiers="" type="layout"/><file name="item_row_com" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\layout\item_row_com.xml" qualifiers="" type="layout"/><file name="item_row_logcall" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\layout\item_row_logcall.xml" qualifiers="" type="layout"/><file name="item_row_updates" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\layout\item_row_updates.xml" qualifiers="" type="layout"/><file name="bottom_nav_menu" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\menu\bottom_nav_menu.xml" qualifiers="" type="menu"/><file name="main" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\values\colors.xml" qualifiers=""><color name="colorPrimary">@color/green_darker</color><color name="colorPrimaryDark">@color/green_darkest</color><color name="tab_active">@color/white</color><color name="tab_inactive">@color/green_light</color><color name="floating_message_create">@color/green</color><color name="channel_background">@color/off_white</color><color name="toolbar_background">@color/green_darker</color><color name="message_yours">@color/green_lightest</color><color name="message_theirs">@color/white</color><color name="message_input_button_inactive">@color/gray</color><color name="floating_message_send">@color/green_dark</color><color name="green_lightest">#e2ffc7</color><color name="green_light">#7eb0ad</color><color name="green">#16cc3e</color><color name="green_dark">#19887a</color><color name="green_darker">#0e5e55</color><color name="green_darkest">#00574B</color><color name="white">#FFF</color><color name="black">#000</color><color name="off_white">#e0e0e0</color><color name="gray">#88898b</color></file><file path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\values\font_certs.xml" qualifiers=""><array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array><string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array><string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array></file><file path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\values\preloaded_fonts.xml" qualifiers=""><array name="preloaded_fonts" translatable="false">
+        <item>@font/roboto</item>
+        <item>@font/roboto_bold</item>
+        <item>@font/roboto_thin</item>
+    </array></file><file path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">WhatsUpp brou</string><string name="namaKontak">kontak saya</string><string name="chatnya">chat saya</string><string name="jam">jam</string><string name="call">statuscall</string><string name="komNam">nama komunitas</string><string-array name="chat">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+    </string-array><string-array name="chatKom">
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+    </string-array><string-array name="nameCom">
+        <item>PAM 2023/2024</item>
+        <item>PABWE 2023/2024</item>
+        <item>SPT 2023/2024</item>
+        <item>PM 2023/2024</item>
+        <item>MPPL 2023/2024</item>
+        <item>PPMPL 2023/2024</item>
+        <item>FRK/FED 2023/2024</item>
+        <item>Cyber security Nation</item>
+        <item>CTD INSIDER</item>
+        <item>NETPLIK</item>
+    </string-array><string-array name="namechat">
+        <item>John Doe</item>
+        <item>Tommy</item>
+        <item>Dean Johnson</item>
+        <item>Mantissa</item>
+        <item>Tanenbaum</item>
+        <item>Mayer</item>
+        <item>Madison</item>
+        <item>Melisa Hong</item>
+        <item>Lebron</item>
+        <item>Hana</item>
+    </string-array><string-array name="isichat">
+        <item>Good Morning</item>
+        <item>Good Afternoon</item>
+        <item>Good Day</item>
+        <item>Hi!</item>
+        <item>How are you doing?</item>
+        <item>it\'s been a long time</item>
+        <item>let\'s go out</item>
+        <item>ara, help me!!! hurry!!</item>
+        <item>Babe? u ok? </item>
+        <item>let\'s code!!</item>
+    </string-array><string-array name="jamStatus">
+        <item>1 minute ago</item>
+        <item>14 minutes ago</item>
+        <item>16 minutes ago</item>
+        <item>20 minutes ago</item>
+        <item>22 minutes ago</item>
+        <item>27 minutes ago</item>
+        <item>32 minutes ago</item>
+        <item>46 minutes ago</item>
+        <item>47 minutes ago</item>
+        <item>57 minutes ago</item>
+    </string-array><string-array name="statusCall">
+        <item>Incoming</item>
+        <item>Incoming</item>
+        <item>Outgoing</item>
+        <item>Incoming</item>
+        <item>Focus Mode</item>
+        <item>Missed</item>
+        <item>Incoming</item>
+        <item>Outgoing</item>
+        <item>Missed</item>
+        <item>Outgoing</item>
+    </string-array></file><file path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.WhatsUppBrou" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        \
+        <item name="colorPrimary">@color/white</item>
+
+
+        <item name="colorSecondary">@color/black</item>
+
+
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimary</item>
+    </style><style name="Base.Theme.WhatsUppBrou.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        
+        <item name="colorSecondary">@color/black</item>
+
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimary</item>
+    </style><style name="textColor">
+    <item name="color">@color/black</item>
+</style></file><file path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Base.Theme.WhatsUppBrou" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/white</item>
+
+        
+        <item name="colorSecondary">@color/white</item>
+
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorSecondary</item>
+    </style><style name="Base.Theme.WhatsUppBrou.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+        <item name="colorSecondary">@color/white</item>
+
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorSecondary</item>
+    </style><style name="textColor">
+    <item name="color">@color/white</item>
+</style></file><file name="backup_rules" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/><file name="a" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\a.jpeg" qualifiers="" type="drawable"/><file name="b" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\b.jpeg" qualifiers="" type="drawable"/><file name="c" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\c.jpeg" qualifiers="" type="drawable"/><file name="d" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\d.jpeg" qualifiers="" type="drawable"/><file name="e" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\e.jpeg" qualifiers="" type="drawable"/><file name="f" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\f.jpeg" qualifiers="" type="drawable"/><file name="g" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\g.jpeg" qualifiers="" type="drawable"/><file name="h" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\h.jpeg" qualifiers="" type="drawable"/><file name="i" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\i.jpeg" qualifiers="" type="drawable"/><file name="j" path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\main\res\drawable\j.jpeg" qualifiers="" type="drawable"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\MSI GF 63\Documents\Kuliah\Semester 6\PAM\WhatsUppbrou\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>

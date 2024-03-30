@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:\\layout\\item_row_updates.xml",
+        "source": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-main-33:\\layout\\item_row_updates.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:\\layout\\content_main.xml",
+        "source": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-main-33:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:\\layout\\fragment_communities.xml",
+        "source": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-main-33:\\layout\\fragment_communities.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:\\layout\\fragment_logcall.xml",
+        "source": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-main-33:\\layout\\fragment_logcall.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:\\layout\\item_row_chat.xml",
+        "source": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-main-33:\\layout\\item_row_chat.xml"
+    },
+    {
+        "merged": "com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:/layout/app_bar.xml",
+        "source": "com.ifs21007.whatsuppbrou.app-main-33:/layout/app_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:\\layout\\fragment_status.xml",
+        "source": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-main-33:\\layout\\fragment_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:\\layout\\item_row_com.xml",
+        "source": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-main-33:\\layout\\item_row_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:\\layout\\app_bar.xml",
+        "source": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-main-33:\\layout\\app_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:\\layout\\fragment_chatting.xml",
+        "source": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-main-33:\\layout\\fragment_chatting.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:\\layout\\fragment_updates.xml",
+        "source": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-main-33:\\layout\\fragment_updates.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:\\layout\\item_row_logcall.xml",
+        "source": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-main-33:\\layout\\item_row_logcall.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\MSI GF 63\\.gradle\\daemon\\8.2\\com.ifs21007.whatsuppbrou.app-main-33:\\layout\\activity_main.xml"
+    }
+]

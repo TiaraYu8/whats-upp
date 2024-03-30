@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">WhatsUpp brou</string>
+    <string name="namaKontak">kontak saya</string>
+    <string name="chatnya">chat saya</string>
+    <string name="jam">jam</string>
+    <string name="call">statuscall</string>
+    <string name="komNam">nama komunitas</string>
+
+    <string-array name="chat">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+    </string-array>
+
+    <string-array name="chatKom">
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+        <item>@drawable/community</item>
+    </string-array>
+
+    <string-array name="nameCom">
+        <item>PAM 2023/2024</item>
+        <item>PABWE 2023/2024</item>
+        <item>SPT 2023/2024</item>
+        <item>PM 2023/2024</item>
+        <item>MPPL 2023/2024</item>
+        <item>PPMPL 2023/2024</item>
+        <item>FRK/FED 2023/2024</item>
+        <item>Cyber security Nation</item>
+        <item>CTD INSIDER</item>
+        <item>NETPLIK</item>
+    </string-array>
+
+    <string-array name="namechat">
+        <item>John Doe</item>
+        <item>Tommy</item>
+        <item>Dean Johnson</item>
+        <item>Mantissa</item>
+        <item>Tanenbaum</item>
+        <item>Mayer</item>
+        <item>Madison</item>
+        <item>Melisa Hong</item>
+        <item>Lebron</item>
+        <item>Hana</item>
+    </string-array>
+
+    <string-array name="isichat">
+        <item>Good Morning</item>
+        <item>Good Afternoon</item>
+        <item>Good Day</item>
+        <item>Hi!</item>
+        <item>How are you doing?</item>
+        <item>it\'s been a long time</item>
+        <item>let\'s go out</item>
+        <item>ara, help me!!! hurry!!</item>
+        <item>Babe? u ok? </item>
+        <item>let\'s code!!</item>
+    </string-array>
+
+    <string-array name="jamStatus">
+        <item>1 minute ago</item>
+        <item>14 minutes ago</item>
+        <item>16 minutes ago</item>
+        <item>20 minutes ago</item>
+        <item>22 minutes ago</item>
+        <item>27 minutes ago</item>
+        <item>32 minutes ago</item>
+        <item>46 minutes ago</item>
+        <item>47 minutes ago</item>
+        <item>57 minutes ago</item>
+    </string-array>
+
+    <string-array name="statusCall">
+        <item>Incoming</item>
+        <item>Incoming</item>
+        <item>Outgoing</item>
+        <item>Incoming</item>
+        <item>Focus Mode</item>
+        <item>Missed</item>
+        <item>Incoming</item>
+        <item>Outgoing</item>
+        <item>Missed</item>
+        <item>Outgoing</item>
+    </string-array>
+</resources>
